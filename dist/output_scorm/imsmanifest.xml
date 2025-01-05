@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="com.example.scorm" version="1.2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="ORG">
+    <organization identifier="ORG">
+      <title>Sample SCORM Course</title>
+      <item identifier="ITEM-1" identifierref="RES-1"><title>Slide 1</title></item>
+<item identifier="ITEM-2" identifierref="RES-2"><title>Slide 2</title></item>
+<item identifier="ITEM-3" identifierref="RES-3"><title>Slide 3</title></item>
+<item identifier="ITEM-4" identifierref="RES-4"><title>Slide 4</title></item>
+<item identifier="ITEM-5" identifierref="RES-5"><title>Slide 5</title></item>
+<item identifier="ITEM-6" identifierref="RES-6"><title>Slide 6</title></item>
+<item identifier="ITEM-7" identifierref="RES-7"><title>Slide 7</title></item>
+<item identifier="ITEM-8" identifierref="RES-8"><title>Slide 8</title></item>
+<item identifier="ITEM-9" identifierref="RES-9"><title>Slide 9</title></item>
+<item identifier="ITEM-10" identifierref="RES-10"><title>Slide 10</title></item>
+<item identifier="ITEM-11" identifierref="RES-11"><title>Slide 11</title></item>
+<item identifier="ITEM-12" identifierref="RES-12"><title>Slide 12</title></item>
+<item identifier="ITEM-13" identifierref="RES-13"><title>Slide 13</title></item>
+<item identifier="ITEM-14" identifierref="RES-14"><title>Slide 14</title></item>
+<item identifier="ITEM-15" identifierref="RES-15"><title>Slide 15</title></item>
+<item identifier="ITEM-16" identifierref="RES-16"><title>Slide 16</title></item>
+<item identifier="ITEM-17" identifierref="RES-17"><title>Slide 17</title></item>
+<item identifier="ITEM-18" identifierref="RES-18"><title>Slide 18</title></item>
+<item identifier="ITEM-19" identifierref="RES-19"><title>Slide 19</title></item>
+<item identifier="ITEM-20" identifierref="RES-20"><title>Slide 20</title></item>
+<item identifier="ITEM-21" identifierref="RES-21"><title>Slide 21</title></item>
+<item identifier="ITEM-22" identifierref="RES-22"><title>Slide 22</title></item>
+<item identifier="ITEM-23" identifierref="RES-23"><title>Slide 23</title></item>
+<item identifier="ITEM-24" identifierref="RES-24"><title>Slide 24</title></item>
+<item identifier="ITEM-25" identifierref="RES-25"><title>Slide 25</title></item>
+<item identifier="ITEM-26" identifierref="RES-26"><title>Slide 26</title></item>
+<item identifier="ITEM-27" identifierref="RES-27"><title>Slide 27</title></item>
+<item identifier="ITEM-28" identifierref="RES-28"><title>Slide 28</title></item>
+<item identifier="ITEM-29" identifierref="RES-29"><title>Slide 29</title></item>
+<item identifier="ITEM-30" identifierref="RES-30"><title>Slide 30</title></item>
+<item identifier="ITEM-31" identifierref="RES-31"><title>Slide 31</title></item>
+<item identifier="ITEM-32" identifierref="RES-32"><title>Slide 32</title></item>
+<item identifier="ITEM-33" identifierref="RES-33"><title>Slide 33</title></item>
+<item identifier="ITEM-34" identifierref="RES-34"><title>Slide 34</title></item>
+<item identifier="ITEM-35" identifierref="RES-35"><title>Slide 35</title></item>
+<item identifier="ITEM-36" identifierref="RES-36"><title>Slide 36</title></item>
+<item identifier="ITEM-37" identifierref="RES-37"><title>Slide 37</title></item>
+<item identifier="ITEM-38" identifierref="RES-38"><title>Slide 38</title></item>
+<item identifier="ITEM-39" identifierref="RES-39"><title>Slide 39</title></item>
+<item identifier="ITEM-40" identifierref="RES-40"><title>Slide 40</title></item>
+<item identifier="ITEM-41" identifierref="RES-41"><title>Slide 41</title></item>
+<item identifier="ITEM-42" identifierref="RES-42"><title>Slide 42</title></item>
+<item identifier="ITEM-43" identifierref="RES-43"><title>Slide 43</title></item>
+<item identifier="ITEM-44" identifierref="RES-44"><title>Slide 44</title></item>
+<item identifier="ITEM-45" identifierref="RES-45"><title>Slide 45</title></item>
+<item identifier="ITEM-46" identifierref="RES-46"><title>Slide 46</title></item>
+<item identifier="ITEM-47" identifierref="RES-47"><title>Slide 47</title></item>
+<item identifier="ITEM-48" identifierref="RES-48"><title>Slide 48</title></item>
+<item identifier="ITEM-49" identifierref="RES-49"><title>Slide 49</title></item>
+<item identifier="ITEM-50" identifierref="RES-50"><title>Slide 50</title></item>
+<item identifier="ITEM-51" identifierref="RES-51"><title>Slide 51</title></item>
+<item identifier="ITEM-52" identifierref="RES-52"><title>Slide 52</title></item>
+<item identifier="ITEM-53" identifierref="RES-53"><title>Slide 53</title></item>
+<item identifier="ITEM-54" identifierref="RES-54"><title>Slide 54</title></item>
+<item identifier="ITEM-55" identifierref="RES-55"><title>Slide 55</title></item>
+<item identifier="ITEM-56" identifierref="RES-56"><title>Slide 56</title></item>
+<item identifier="ITEM-57" identifierref="RES-57"><title>Slide 57</title></item>
+<item identifier="ITEM-58" identifierref="RES-58"><title>Slide 58</title></item>
+<item identifier="ITEM-59" identifierref="RES-59"><title>Slide 59</title></item>
+<item identifier="ITEM-60" identifierref="RES-60"><title>Slide 60</title></item>
+<item identifier="ITEM-61" identifierref="RES-61"><title>Slide 61</title></item>
+<item identifier="ITEM-62" identifierref="RES-62"><title>Slide 62</title></item>
+<item identifier="ITEM-63" identifierref="RES-63"><title>Slide 63</title></item>
+<item identifier="ITEM-64" identifierref="RES-64"><title>Slide 64</title></item>
+<item identifier="ITEM-65" identifierref="RES-65"><title>Slide 65</title></item>
+<item identifier="ITEM-66" identifierref="RES-66"><title>Slide 66</title></item>
+<item identifier="ITEM-67" identifierref="RES-67"><title>Slide 67</title></item>
+<item identifier="ITEM-68" identifierref="RES-68"><title>Slide 68</title></item>
+<item identifier="ITEM-69" identifierref="RES-69"><title>Slide 69</title></item>
+<item identifier="ITEM-70" identifierref="RES-70"><title>Slide 70</title></item>
+<item identifier="ITEM-71" identifierref="RES-71"><title>Slide 71</title></item>
+<item identifier="ITEM-72" identifierref="RES-72"><title>Slide 72</title></item>
+<item identifier="ITEM-73" identifierref="RES-73"><title>Slide 73</title></item>
+<item identifier="ITEM-74" identifierref="RES-74"><title>Slide 74</title></item>
+<item identifier="ITEM-75" identifierref="RES-75"><title>Slide 75</title></item>
+<item identifier="ITEM-76" identifierref="RES-76"><title>Slide 76</title></item>
+<item identifier="ITEM-77" identifierref="RES-77"><title>Slide 77</title></item>
+<item identifier="ITEM-78" identifierref="RES-78"><title>Slide 78</title></item>
+<item identifier="ITEM-79" identifierref="RES-79"><title>Slide 79</title></item>
+<item identifier="ITEM-80" identifierref="RES-80"><title>Slide 80</title></item>
+<item identifier="ITEM-81" identifierref="RES-81"><title>Slide 81</title></item>
+<item identifier="ITEM-82" identifierref="RES-82"><title>Slide 82</title></item>
+<item identifier="ITEM-83" identifierref="RES-83"><title>Slide 83</title></item>
+<item identifier="ITEM-84" identifierref="RES-84"><title>Slide 84</title></item>
+<item identifier="ITEM-85" identifierref="RES-85"><title>Slide 85</title></item>
+<item identifier="ITEM-86" identifierref="RES-86"><title>Slide 86</title></item>
+<item identifier="ITEM-87" identifierref="RES-87"><title>Slide 87</title></item>
+<item identifier="ITEM-88" identifierref="RES-88"><title>Slide 88</title></item>
+<item identifier="ITEM-89" identifierref="RES-89"><title>Slide 89</title></item>
+<item identifier="ITEM-90" identifierref="RES-90"><title>Slide 90</title></item>
+<item identifier="ITEM-91" identifierref="RES-91"><title>Slide 91</title></item>
+<item identifier="ITEM-92" identifierref="RES-92"><title>Slide 92</title></item>
+<item identifier="ITEM-93" identifierref="RES-93"><title>Slide 93</title></item>
+<item identifier="ITEM-94" identifierref="RES-94"><title>Slide 94</title></item>
+<item identifier="ITEM-95" identifierref="RES-95"><title>Slide 95</title></item>
+<item identifier="ITEM-96" identifierref="RES-96"><title>Slide 96</title></item>
+<item identifier="ITEM-97" identifierref="RES-97"><title>Slide 97</title></item>
+<item identifier="ITEM-98" identifierref="RES-98"><title>Slide 98</title></item>
+<item identifier="ITEM-99" identifierref="RES-99"><title>Slide 99</title></item>
+<item identifier="ITEM-100" identifierref="RES-100"><title>Slide 100</title></item>
+<item identifier="ITEM-101" identifierref="RES-101"><title>Slide 101</title></item>
+<item identifier="ITEM-102" identifierref="RES-102"><title>Slide 102</title></item>
+<item identifier="ITEM-103" identifierref="RES-103"><title>Slide 103</title></item>
+<item identifier="ITEM-104" identifierref="RES-104"><title>Slide 104</title></item>
+<item identifier="ITEM-105" identifierref="RES-105"><title>Slide 105</title></item>
+<item identifier="ITEM-106" identifierref="RES-106"><title>Slide 106</title></item>
+<item identifier="ITEM-107" identifierref="RES-107"><title>Slide 107</title></item>
+<item identifier="ITEM-108" identifierref="RES-108"><title>Slide 108</title></item>
+<item identifier="ITEM-109" identifierref="RES-109"><title>Slide 109</title></item>
+<item identifier="ITEM-110" identifierref="RES-110"><title>Slide 110</title></item>
+<item identifier="ITEM-111" identifierref="RES-111"><title>Slide 111</title></item>
+<item identifier="ITEM-112" identifierref="RES-112"><title>Slide 112</title></item>
+<item identifier="ITEM-113" identifierref="RES-113"><title>Slide 113</title></item>
+<item identifier="ITEM-114" identifierref="RES-114"><title>Slide 114</title></item>
+<item identifier="ITEM-115" identifierref="RES-115"><title>Slide 115</title></item>
+<item identifier="ITEM-116" identifierref="RES-116"><title>Slide 116</title></item>
+<item identifier="ITEM-117" identifierref="RES-117"><title>Slide 117</title></item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-1" type="webcontent" href="slide_1.html"><file href="slide_1.html"/><file href="slide_1.png"/></resource>
+<resource identifier="RES-2" type="webcontent" href="slide_2.html"><file href="slide_2.html"/><file href="slide_2.png"/></resource>
+<resource identifier="RES-3" type="webcontent" href="slide_3.html"><file href="slide_3.html"/><file href="slide_3.png"/></resource>
+<resource identifier="RES-4" type="webcontent" href="slide_4.html"><file href="slide_4.html"/><file href="slide_4.png"/></resource>
+<resource identifier="RES-5" type="webcontent" href="slide_5.html"><file href="slide_5.html"/><file href="slide_5.png"/></resource>
+<resource identifier="RES-6" type="webcontent" href="slide_6.html"><file href="slide_6.html"/><file href="slide_6.png"/></resource>
+<resource identifier="RES-7" type="webcontent" href="slide_7.html"><file href="slide_7.html"/><file href="slide_7.png"/></resource>
+<resource identifier="RES-8" type="webcontent" href="slide_8.html"><file href="slide_8.html"/><file href="slide_8.png"/></resource>
+<resource identifier="RES-9" type="webcontent" href="slide_9.html"><file href="slide_9.html"/><file href="slide_9.png"/></resource>
+<resource identifier="RES-10" type="webcontent" href="slide_10.html"><file href="slide_10.html"/><file href="slide_10.png"/></resource>
+<resource identifier="RES-11" type="webcontent" href="slide_11.html"><file href="slide_11.html"/><file href="slide_11.png"/></resource>
+<resource identifier="RES-12" type="webcontent" href="slide_12.html"><file href="slide_12.html"/><file href="slide_12.png"/></resource>
+<resource identifier="RES-13" type="webcontent" href="slide_13.html"><file href="slide_13.html"/><file href="slide_13.png"/></resource>
+<resource identifier="RES-14" type="webcontent" href="slide_14.html"><file href="slide_14.html"/><file href="slide_14.png"/></resource>
+<resource identifier="RES-15" type="webcontent" href="slide_15.html"><file href="slide_15.html"/><file href="slide_15.png"/></resource>
+<resource identifier="RES-16" type="webcontent" href="slide_16.html"><file href="slide_16.html"/><file href="slide_16.png"/></resource>
+<resource identifier="RES-17" type="webcontent" href="slide_17.html"><file href="slide_17.html"/><file href="slide_17.png"/></resource>
+<resource identifier="RES-18" type="webcontent" href="slide_18.html"><file href="slide_18.html"/><file href="slide_18.png"/></resource>
+<resource identifier="RES-19" type="webcontent" href="slide_19.html"><file href="slide_19.html"/><file href="slide_19.png"/></resource>
+<resource identifier="RES-20" type="webcontent" href="slide_20.html"><file href="slide_20.html"/><file href="slide_20.png"/></resource>
+<resource identifier="RES-21" type="webcontent" href="slide_21.html"><file href="slide_21.html"/><file href="slide_21.png"/></resource>
+<resource identifier="RES-22" type="webcontent" href="slide_22.html"><file href="slide_22.html"/><file href="slide_22.png"/></resource>
+<resource identifier="RES-23" type="webcontent" href="slide_23.html"><file href="slide_23.html"/><file href="slide_23.png"/></resource>
+<resource identifier="RES-24" type="webcontent" href="slide_24.html"><file href="slide_24.html"/><file href="slide_24.png"/></resource>
+<resource identifier="RES-25" type="webcontent" href="slide_25.html"><file href="slide_25.html"/><file href="slide_25.png"/></resource>
+<resource identifier="RES-26" type="webcontent" href="slide_26.html"><file href="slide_26.html"/><file href="slide_26.png"/></resource>
+<resource identifier="RES-27" type="webcontent" href="slide_27.html"><file href="slide_27.html"/><file href="slide_27.png"/></resource>
+<resource identifier="RES-28" type="webcontent" href="slide_28.html"><file href="slide_28.html"/><file href="slide_28.png"/></resource>
+<resource identifier="RES-29" type="webcontent" href="slide_29.html"><file href="slide_29.html"/><file href="slide_29.png"/></resource>
+<resource identifier="RES-30" type="webcontent" href="slide_30.html"><file href="slide_30.html"/><file href="slide_30.png"/></resource>
+<resource identifier="RES-31" type="webcontent" href="slide_31.html"><file href="slide_31.html"/><file href="slide_31.png"/></resource>
+<resource identifier="RES-32" type="webcontent" href="slide_32.html"><file href="slide_32.html"/><file href="slide_32.png"/></resource>
+<resource identifier="RES-33" type="webcontent" href="slide_33.html"><file href="slide_33.html"/><file href="slide_33.png"/></resource>
+<resource identifier="RES-34" type="webcontent" href="slide_34.html"><file href="slide_34.html"/><file href="slide_34.png"/></resource>
+<resource identifier="RES-35" type="webcontent" href="slide_35.html"><file href="slide_35.html"/><file href="slide_35.png"/></resource>
+<resource identifier="RES-36" type="webcontent" href="slide_36.html"><file href="slide_36.html"/><file href="slide_36.png"/></resource>
+<resource identifier="RES-37" type="webcontent" href="slide_37.html"><file href="slide_37.html"/><file href="slide_37.png"/></resource>
+<resource identifier="RES-38" type="webcontent" href="slide_38.html"><file href="slide_38.html"/><file href="slide_38.png"/></resource>
+<resource identifier="RES-39" type="webcontent" href="slide_39.html"><file href="slide_39.html"/><file href="slide_39.png"/></resource>
+<resource identifier="RES-40" type="webcontent" href="slide_40.html"><file href="slide_40.html"/><file href="slide_40.png"/></resource>
+<resource identifier="RES-41" type="webcontent" href="slide_41.html"><file href="slide_41.html"/><file href="slide_41.png"/></resource>
+<resource identifier="RES-42" type="webcontent" href="slide_42.html"><file href="slide_42.html"/><file href="slide_42.png"/></resource>
+<resource identifier="RES-43" type="webcontent" href="slide_43.html"><file href="slide_43.html"/><file href="slide_43.png"/></resource>
+<resource identifier="RES-44" type="webcontent" href="slide_44.html"><file href="slide_44.html"/><file href="slide_44.png"/></resource>
+<resource identifier="RES-45" type="webcontent" href="slide_45.html"><file href="slide_45.html"/><file href="slide_45.png"/></resource>
+<resource identifier="RES-46" type="webcontent" href="slide_46.html"><file href="slide_46.html"/><file href="slide_46.png"/></resource>
+<resource identifier="RES-47" type="webcontent" href="slide_47.html"><file href="slide_47.html"/><file href="slide_47.png"/></resource>
+<resource identifier="RES-48" type="webcontent" href="slide_48.html"><file href="slide_48.html"/><file href="slide_48.png"/></resource>
+<resource identifier="RES-49" type="webcontent" href="slide_49.html"><file href="slide_49.html"/><file href="slide_49.png"/></resource>
+<resource identifier="RES-50" type="webcontent" href="slide_50.html"><file href="slide_50.html"/><file href="slide_50.png"/></resource>
+<resource identifier="RES-51" type="webcontent" href="slide_51.html"><file href="slide_51.html"/><file href="slide_51.png"/></resource>
+<resource identifier="RES-52" type="webcontent" href="slide_52.html"><file href="slide_52.html"/><file href="slide_52.png"/></resource>
+<resource identifier="RES-53" type="webcontent" href="slide_53.html"><file href="slide_53.html"/><file href="slide_53.png"/></resource>
+<resource identifier="RES-54" type="webcontent" href="slide_54.html"><file href="slide_54.html"/><file href="slide_54.png"/></resource>
+<resource identifier="RES-55" type="webcontent" href="slide_55.html"><file href="slide_55.html"/><file href="slide_55.png"/></resource>
+<resource identifier="RES-56" type="webcontent" href="slide_56.html"><file href="slide_56.html"/><file href="slide_56.png"/></resource>
+<resource identifier="RES-57" type="webcontent" href="slide_57.html"><file href="slide_57.html"/><file href="slide_57.png"/></resource>
+<resource identifier="RES-58" type="webcontent" href="slide_58.html"><file href="slide_58.html"/><file href="slide_58.png"/></resource>
+<resource identifier="RES-59" type="webcontent" href="slide_59.html"><file href="slide_59.html"/><file href="slide_59.png"/></resource>
+<resource identifier="RES-60" type="webcontent" href="slide_60.html"><file href="slide_60.html"/><file href="slide_60.png"/></resource>
+<resource identifier="RES-61" type="webcontent" href="slide_61.html"><file href="slide_61.html"/><file href="slide_61.png"/></resource>
+<resource identifier="RES-62" type="webcontent" href="slide_62.html"><file href="slide_62.html"/><file href="slide_62.png"/></resource>
+<resource identifier="RES-63" type="webcontent" href="slide_63.html"><file href="slide_63.html"/><file href="slide_63.png"/></resource>
+<resource identifier="RES-64" type="webcontent" href="slide_64.html"><file href="slide_64.html"/><file href="slide_64.png"/></resource>
+<resource identifier="RES-65" type="webcontent" href="slide_65.html"><file href="slide_65.html"/><file href="slide_65.png"/></resource>
+<resource identifier="RES-66" type="webcontent" href="slide_66.html"><file href="slide_66.html"/><file href="slide_66.png"/></resource>
+<resource identifier="RES-67" type="webcontent" href="slide_67.html"><file href="slide_67.html"/><file href="slide_67.png"/></resource>
+<resource identifier="RES-68" type="webcontent" href="slide_68.html"><file href="slide_68.html"/><file href="slide_68.png"/></resource>
+<resource identifier="RES-69" type="webcontent" href="slide_69.html"><file href="slide_69.html"/><file href="slide_69.png"/></resource>
+<resource identifier="RES-70" type="webcontent" href="slide_70.html"><file href="slide_70.html"/><file href="slide_70.png"/></resource>
+<resource identifier="RES-71" type="webcontent" href="slide_71.html"><file href="slide_71.html"/><file href="slide_71.png"/></resource>
+<resource identifier="RES-72" type="webcontent" href="slide_72.html"><file href="slide_72.html"/><file href="slide_72.png"/></resource>
+<resource identifier="RES-73" type="webcontent" href="slide_73.html"><file href="slide_73.html"/><file href="slide_73.png"/></resource>
+<resource identifier="RES-74" type="webcontent" href="slide_74.html"><file href="slide_74.html"/><file href="slide_74.png"/></resource>
+<resource identifier="RES-75" type="webcontent" href="slide_75.html"><file href="slide_75.html"/><file href="slide_75.png"/></resource>
+<resource identifier="RES-76" type="webcontent" href="slide_76.html"><file href="slide_76.html"/><file href="slide_76.png"/></resource>
+<resource identifier="RES-77" type="webcontent" href="slide_77.html"><file href="slide_77.html"/><file href="slide_77.png"/></resource>
+<resource identifier="RES-78" type="webcontent" href="slide_78.html"><file href="slide_78.html"/><file href="slide_78.png"/></resource>
+<resource identifier="RES-79" type="webcontent" href="slide_79.html"><file href="slide_79.html"/><file href="slide_79.png"/></resource>
+<resource identifier="RES-80" type="webcontent" href="slide_80.html"><file href="slide_80.html"/><file href="slide_80.png"/></resource>
+<resource identifier="RES-81" type="webcontent" href="slide_81.html"><file href="slide_81.html"/><file href="slide_81.png"/></resource>
+<resource identifier="RES-82" type="webcontent" href="slide_82.html"><file href="slide_82.html"/><file href="slide_82.png"/></resource>
+<resource identifier="RES-83" type="webcontent" href="slide_83.html"><file href="slide_83.html"/><file href="slide_83.png"/></resource>
+<resource identifier="RES-84" type="webcontent" href="slide_84.html"><file href="slide_84.html"/><file href="slide_84.png"/></resource>
+<resource identifier="RES-85" type="webcontent" href="slide_85.html"><file href="slide_85.html"/><file href="slide_85.png"/></resource>
+<resource identifier="RES-86" type="webcontent" href="slide_86.html"><file href="slide_86.html"/><file href="slide_86.png"/></resource>
+<resource identifier="RES-87" type="webcontent" href="slide_87.html"><file href="slide_87.html"/><file href="slide_87.png"/></resource>
+<resource identifier="RES-88" type="webcontent" href="slide_88.html"><file href="slide_88.html"/><file href="slide_88.png"/></resource>
+<resource identifier="RES-89" type="webcontent" href="slide_89.html"><file href="slide_89.html"/><file href="slide_89.png"/></resource>
+<resource identifier="RES-90" type="webcontent" href="slide_90.html"><file href="slide_90.html"/><file href="slide_90.png"/></resource>
+<resource identifier="RES-91" type="webcontent" href="slide_91.html"><file href="slide_91.html"/><file href="slide_91.png"/></resource>
+<resource identifier="RES-92" type="webcontent" href="slide_92.html"><file href="slide_92.html"/><file href="slide_92.png"/></resource>
+<resource identifier="RES-93" type="webcontent" href="slide_93.html"><file href="slide_93.html"/><file href="slide_93.png"/></resource>
+<resource identifier="RES-94" type="webcontent" href="slide_94.html"><file href="slide_94.html"/><file href="slide_94.png"/></resource>
+<resource identifier="RES-95" type="webcontent" href="slide_95.html"><file href="slide_95.html"/><file href="slide_95.png"/></resource>
+<resource identifier="RES-96" type="webcontent" href="slide_96.html"><file href="slide_96.html"/><file href="slide_96.png"/></resource>
+<resource identifier="RES-97" type="webcontent" href="slide_97.html"><file href="slide_97.html"/><file href="slide_97.png"/></resource>
+<resource identifier="RES-98" type="webcontent" href="slide_98.html"><file href="slide_98.html"/><file href="slide_98.png"/></resource>
+<resource identifier="RES-99" type="webcontent" href="slide_99.html"><file href="slide_99.html"/><file href="slide_99.png"/></resource>
+<resource identifier="RES-100" type="webcontent" href="slide_100.html"><file href="slide_100.html"/><file href="slide_100.png"/></resource>
+<resource identifier="RES-101" type="webcontent" href="slide_101.html"><file href="slide_101.html"/><file href="slide_101.png"/></resource>
+<resource identifier="RES-102" type="webcontent" href="slide_102.html"><file href="slide_102.html"/><file href="slide_102.png"/></resource>
+<resource identifier="RES-103" type="webcontent" href="slide_103.html"><file href="slide_103.html"/><file href="slide_103.png"/></resource>
+<resource identifier="RES-104" type="webcontent" href="slide_104.html"><file href="slide_104.html"/><file href="slide_104.png"/></resource>
+<resource identifier="RES-105" type="webcontent" href="slide_105.html"><file href="slide_105.html"/><file href="slide_105.png"/></resource>
+<resource identifier="RES-106" type="webcontent" href="slide_106.html"><file href="slide_106.html"/><file href="slide_106.png"/></resource>
+<resource identifier="RES-107" type="webcontent" href="slide_107.html"><file href="slide_107.html"/><file href="slide_107.png"/></resource>
+<resource identifier="RES-108" type="webcontent" href="slide_108.html"><file href="slide_108.html"/><file href="slide_108.png"/></resource>
+<resource identifier="RES-109" type="webcontent" href="slide_109.html"><file href="slide_109.html"/><file href="slide_109.png"/></resource>
+<resource identifier="RES-110" type="webcontent" href="slide_110.html"><file href="slide_110.html"/><file href="slide_110.png"/></resource>
+<resource identifier="RES-111" type="webcontent" href="slide_111.html"><file href="slide_111.html"/><file href="slide_111.png"/></resource>
+<resource identifier="RES-112" type="webcontent" href="slide_112.html"><file href="slide_112.html"/><file href="slide_112.png"/></resource>
+<resource identifier="RES-113" type="webcontent" href="slide_113.html"><file href="slide_113.html"/><file href="slide_113.png"/></resource>
+<resource identifier="RES-114" type="webcontent" href="slide_114.html"><file href="slide_114.html"/><file href="slide_114.png"/></resource>
+<resource identifier="RES-115" type="webcontent" href="slide_115.html"><file href="slide_115.html"/><file href="slide_115.png"/></resource>
+<resource identifier="RES-116" type="webcontent" href="slide_116.html"><file href="slide_116.html"/><file href="slide_116.png"/></resource>
+<resource identifier="RES-117" type="webcontent" href="slide_117.html"><file href="slide_117.html"/><file href="slide_117.png"/></resource>
+  </resources>
+</manifest>
