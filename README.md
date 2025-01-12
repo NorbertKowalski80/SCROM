@@ -88,5 +88,5 @@ Generates the SCORM manifest file (`imsmanifest.xml`).
 
 ## Author
 
-This program was created to convert presentations into SCORM packages for use in LMS platforms like Moodle. If you have any questions, feel free to reach out!
+This program was created to convert presentations into SCORM packages for use in LMS platforms like Moodle. If you have any questions, feel free to reach out! "https://github.com/NorbertKowalski80"
 
